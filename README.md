@@ -1,7 +1,7 @@
 # Surfs_Up
 ## An analysis of a SQLite dataset containing 2017 weather data in Oahu, HI using Python to determine business sustainability based on climate trends. 
 
-INSERT PICTURES
+![](Resources/OAHU_IMAGE.png) ![](Resources/OAHU_MAP_IMAGE.png)
 
 ### Purpose
 
